@@ -14,7 +14,7 @@ class Box extends Component{
                 <img src={this.props.taswira} />
 				<p>{this.props.name}</p>
 				<p>{this.props.des1}</p>
-				<p>{this.props.des2}</p>
+				<p>{this.props.des2}</p> 
 				<p>{this.props.gender}</p>
 			</div>
         );
